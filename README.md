@@ -1,13 +1,13 @@
-### Hello, Welcome! 👋
+## Hello, Welcome! 👋
 
-I'm Amanda Luz
-- 😄 She/Her
+## I'm Amanda Luz (😄 She/Her)
 
-Mobile Developer | Kotlin | Java | Python | Dart | Flutter
+- Completing MBA in multiplatform mobile development
+- Acting as Android Mobile Developer | Kotlin | Java | Python | Dart | Flutter
 
 <div>
   <img height= "180cm" src="https://github-readme-stats.vercel.app/api?username=amanddaluz&show_icons=true&theme=dracula"/>
-  <img height= "180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanddaluz&layout=compact&theme=dracula"/>
+  <img height= "180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanddaluz&hide_progress=true&layout=compact&theme=dracula"/>
 </div>
 
 ### 💓 Let's get connected:
