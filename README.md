@@ -5,8 +5,6 @@
 - Completing MBA in multiplatform mobile development
 - Acting as Android Mobile Developer | Kotlin | Java | Python | Dart | Flutter
 
-<div>
-  <img height= "180cm" src="https://github-readme-stats.vercel.app/api?username=amanddaluz&show_icons=true&theme=dracula"/>
   <img height= "180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanddaluz&hide_progress=true&layout=compact&theme=dracula"/>
 </div>
 
